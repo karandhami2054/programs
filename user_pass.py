@@ -1,0 +1,10 @@
+username = input("Enter your username: ")
+password = input("Enter your password: ")
+print("Your username: ", username)
+a = len(password)
+print("Your Password: ", a*"*" )
+
+# username = input("Enter your username: ")
+password = input("Enter your password: ")
+# print("Your username: ", username)
+print("Your Password: ", len(password) * "a")
