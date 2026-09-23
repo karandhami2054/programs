@@ -1,11 +1,9 @@
-<<<<<<< HEAD
 palindrome = input("Enter your sentence: ")
 if palindrome == palindrome[-1::-1]:
     print("palindrome")
 else:
     print("Not palindrome")
 
-=======
 name = [1, 2, 3, 2, 1]
 eman = name.copy()
 eman.reverse()
@@ -22,4 +20,3 @@ student_list = ["C", "D", "A", "A", "B", "B", "A"]
 print("no. of student with grade A is : ", student_list.count("A") )
 student_list.sort()
 print("In Ascending Order :", student_list)
->>>>>>> 1a15e23cdf0a2acd92e20d45dc9509a40279dad9
