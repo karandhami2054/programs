@@ -5,7 +5,6 @@ dict = {
     'pratik' : 8
 }
 
-
 keys = sorted(dict.keys())
 values = sorted(dict.values(), reverse=True)
 print("Keys:", keys)
