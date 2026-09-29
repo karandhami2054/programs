@@ -11,8 +11,11 @@ print(func_list(cities))
 cities = ["Kanchanpur", "Dhanghadi", "Martadi", "doti", "dipayal"]
 def func_list(city):
     c = " ".join(city)
+    print("type of c", type(c))
     a = c.split()
     print(a)
+    print("type of a", type(a))
+
     return c
 
 print(func_list(cities))
