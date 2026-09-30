@@ -18,6 +18,7 @@ def func_list(city):
 
     return c
 
+
 print(func_list(cities))
 
 
