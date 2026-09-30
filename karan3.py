@@ -1,0 +1,5 @@
+string = input("Enter your sentence: ")
+print(string.isidentifier())
+print(string.isalnum())
+print(string.isspace())
+print(string.istitle())
