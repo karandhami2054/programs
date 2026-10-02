@@ -1,4 +1,4 @@
 *Hello Friends*
 
 
-***In this repo there are programs that i have learned till now using python.***
+***This repo contains the Python programs I have learned so far.***
